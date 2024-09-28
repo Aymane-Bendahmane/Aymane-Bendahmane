@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Aymane Bendahmane!
+## 💪 My Codewars Profile
 ![Codewars Badge](https://www.codewars.com/users/Aymane-Bendahmane/badges/large)
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** specializing in backend services, particularly using **Microservice Architecture**, **Spring Boot**, and **Java/Kotlin**.
@@ -27,9 +28,6 @@ I'm currently focusing on:
 - [Email](mailto:aymane.bendahmane14@gmail.com)
 
 Feel free to reach out for collaboration, project discussions, or just to chat about tech!
-
-## 💪 My Codewars Profile
-
 
 ---
 *Thank you for visiting my profile! Let's build something amazing together!*
