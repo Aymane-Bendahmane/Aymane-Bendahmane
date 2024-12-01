@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
 - **Frameworks & Libraries:** Spring Boot, Vert.x, React, Redux (Saga, Thunk)
 - **Testing:** JUnit, Jest, React Testing Library
 - **Databases:** PostgreSQL, MySQL
-- **Cloud:** AWS (Kinesis, Lambda)
+- **Cloud:** AWS 
 - **Others:** Git, CI/CD, RESTful APIs, Multi-Tenancy Architecture, Docker
 
 
