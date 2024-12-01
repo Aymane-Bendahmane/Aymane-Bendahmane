@@ -6,12 +6,13 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Kotlin, Java, TypeScript, JavaScript, HTML, SCSS, SQL
-- **Frameworks & Libraries:** Spring Boot, Vert.x, React, Redux (Saga, Thunk)
-- **Testing:** JUnit, Jest, React Testing Library
-- **Databases:** PostgreSQL, MySQL
-- **Cloud:** AWS 
-- **Others:** Git, CI/CD, RESTful APIs, Multi-Tenancy Architecture, Docker
+- **Backend Development**: Java, Kotlin, Spring Boot, Spring Cloud
+- **Frontend Development**: React.js, Redux, Angular, TypeScript
+- **DevOps**: Docker, AWS, CI/CD (GitLab)
+- **Testing**: JUnit, Jest, React Testing Library, Cypress, Mockito
+- **Databases**: PostgreSQL, SQL
+- **Tools**: Flyway, Maven, Gradle, Prometheus, Grafana
+- **Other**: Microservices, Clean Code, SCRUM, Git
 
 
 ## 💡 Current Interests
