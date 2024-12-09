@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
 
 I'm currently focusing on:
 
-- Scaling microservices with Spring Boot and Kotlin.
+- Building high performance microservices with Spring Boot and Java.
 - Exploring advanced frontend patterns and performance optimizations.
 - Building cloud-native solutions with AWS.
 
